@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">new_sample</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="hint_email" translatable="false">Email</string>
+    <string name="hint_password" translatable="false">Password</string>
+    <string name="confirm_password" translatable="false">Confirm Password</string>
+</resources>
